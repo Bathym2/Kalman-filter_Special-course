@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "Response-estimation-in-structural-dynamics-under-unknown-loads",
+			"path": "../../../../../../Github/Response-estimation-in-structural-dynamics-under-unknown-loads"
+		},
+		{
+			"name": "loaddata_sigicom_lect2",
+			"path": "../../../../Python/loaddata_sigicom_lect2"
+		},
+		{
+			"name": "sdofvib_python_26",
+			"path": "../../../../Python/sdofvib_python_26"
+		},
+		{
+			"name": "loaddata_sigicom_26",
+			"path": "../../../../Python/loaddata_sigicom_26"
+		},
+		{
+			"name": "modalanalysis_owt_26",
+			"path": "../modalanalysis_owt_26"
+		},
+		{
+			"name": "vib3D_owt_26",
+			"path": "."
+		},
+		{
+			"name": "framevib2D_python_26",
+			"path": "../framevib2D_python_26"
+		}
+	],
+	"settings": {}
+}
