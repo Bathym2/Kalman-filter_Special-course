@@ -80,13 +80,13 @@ t_end = dt * N
 time_array = range(0, step=dt, length=N)
 
 # Plot for disp DOF 1
-plot1 = plot(time_array, [z_true[1, :], z_kf[1, :]], label = ["True" "Kalman Filter"])
+plot1 = plot(time_array, [z_true[1, :], z_kf[1, :]], label = [ "Kalman Filter"])
 title!("disp DOF 1")
 xlabel!("time")
 display(plot1)
 
 # Plot for vel DOF 1
-plot2 = plot(time_array, [z_true[3, :], z_kf[3, :]], label = ["True" "Kalman Filter"])
+plot2 = plot(time_array, [z_true[3, :], z_kf[3, :]], label = [ "Kalman Filter"])
 title!("vel DOF 1")
 xlabel!("time")
 display(plot2)
